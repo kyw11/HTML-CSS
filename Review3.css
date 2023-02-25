@@ -1,0 +1,87 @@
+.text-line {  /* text 밑줄 없애는 클래스 */
+    text-decoration: none;
+}
+.nav-item{  /*오른쪽 정렬 하려고 */
+    float: right;
+
+}
+.nav-bar1{ /* 정보 스토어*/
+    color: #202124;
+    padding: 5px;
+    margin: 0 5px;
+    margin-left: 13px;
+    font-family: 14px;
+}
+.nav-bar2 { /*이미지 Gmail*/
+    color: rgba(0,0,0,.87);
+    padding: 0 4px;
+}
+.text-line:hover {
+    text-decoration: underline;
+}
+.main {
+    margin-top: 253px;
+    text-align: center;
+}
+.input-area {
+    margin-top: 20px;
+}
+.input-box {
+    width: 584px;
+    height: 45.33px;
+    border-radius: 24px;
+    border: 1px solid #dfe1e5;
+    padding-left: 40px;
+    padding-right: 79px;
+}
+.serch-icon {
+    position: relative;
+    left: 40px;
+    color: #9aa0a6;
+}
+.icon-right {
+    position: relative;
+    right: 81px;
+    /* color: #9aa0a6; */
+}
+.button-area {
+    padding-top: 18px;
+}
+.button-style {
+    height: 36px;
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    border-radius: 4px;
+    font-family:arial,sans-serif;
+    padding: 0 16px;
+    margin: 11px 4px;
+}
+.button-style:hover {
+    box-shadow: 0 1px 1px rgb(0 0 0 / 10%);
+    background-color: #f8f9fa;
+    border: 1px solid #dadce0;
+    color: #202124;
+}
+.footer-area {
+    margin-top: 315px;
+}
+.footer-line1 {
+    padding: 15px 30px;
+    border-bottom: 1px solid #dadce0;
+    font-size: 15px;
+    color: #70757a;
+}
+.footer-line2 {
+    color: #70757a;
+    padding: 14px;
+    margin-left: 13px;
+    font-size: 14px;
+    font-family:arial,sans-serif;
+} 
+.footer-item {
+    float: right;
+}
+.footer-area2 {
+    margin-top: 10px
+    
+}
